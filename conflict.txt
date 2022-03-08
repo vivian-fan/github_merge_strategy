@@ -1,1 +1,1 @@
-I am from merge-conflict.
+Resolve merge conflict
